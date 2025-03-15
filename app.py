@@ -9,7 +9,7 @@ from browser_use import Agent, Browser, BrowserConfig
  
  
 # Initialize the model
-llm = ChatGoogleGenerativeAI(model='gemini-2.0-flash-exp', api_key="AIzaSyDZUYR1M1SCC_1sRctEPByst6Z_6Nmsla4")
+llm = ChatGoogleGenerativeAI(model='gemini-2.0-flash-exp', api_key="")
  
  
 browser = Browser(

@@ -92,14 +92,3 @@ The system includes built-in error handling for:
 - Browser connection issues
 - Task execution failures
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Your chosen license]
-
-## Support
-
-For support, please open an issue in the repository.
